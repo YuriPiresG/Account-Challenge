@@ -1,0 +1,1 @@
+# I was challenged to create a code with a constructor who will simulate a bank interface, alogside with the Withdraw function, who will deduct credits from the user account and Deposit function, who will add funds to the user account, pretty simple
